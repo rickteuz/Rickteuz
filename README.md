@@ -14,9 +14,24 @@
 
 <p align="left">✨ Creating bugs since 2020<br><br>📚 I'm currently learning Machine Learning<br><br>🔭 I am looking for my first job opportunity. My dream is to one day work with AI and Machine Learning</p>
 
-###
 
-<h2 align="left">I code with</h2>
+<!-- Dropdown -->
+<details>
+  <summary>👨‍💻 More about me</summary>
+
+  - 💬 
+I am Mateus Henrique, a curious and motivated professional, always seeking new knowledge and challenges. Currently, I am studying Systems Analysis and Development at Unopar College, demonstrating my commitment to acquiring relevant skills for the technology field.
+
+  - ⚡ I enjoy reading, whether it's a good book, manga, or comics, as well as watching movies and playing games! I believe that our personal interests contribute to a more refined perception of things and problem-solving. \o/
+</details>
+
+
+<!-- GithubStats -->
+![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=rickteuz&show_icons=true&theme=gotham)
+
+
+
+## 🔥 Skills
 
 ###
 
