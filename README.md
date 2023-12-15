@@ -1,6 +1,6 @@
 # Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> 🤓
 <img src="https://komarev.com/ghpvc/?username=Rickteuz&color=yellow" alt="Profile views" /> 
-<h1 align="left">Hey 👋 What's up?</h1>
+
 
 ###
 
