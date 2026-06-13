@@ -1,64 +1,48 @@
-# Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> 🤓
-<img src="https://komarev.com/ghpvc/?username=Rickteuz&color=yellow" alt="Profile views" /> 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00ff00&center=true&vCenter=true&width=500&lines=System.out.println(%22Hello+World%22);;%22Initializing+Mateus+Henrique...%22;%22Dev+%7C+Architect+%7C+Strategist%22" alt="Typing animation" />
+</p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Online-00ff00?style=for-the-badge&logo=gnu&logoColor=white" />
+  <img src="https://komarev.com/ghpvc/?username=Rickteuz&color=00ff00&label=ACCESS%20LOGS" alt="Profile views" />
+</p>
 
-###
+---
 
-<p align="left">My name is Mateus, and I'm a programming student.</p>
+## ⚡ SYSTEM_INFO
+`> Root User:` **Mateus Henrique**  
+`> Focus:` Software Architecture, AI Integration, Growth Engineering & Data Traffic.  
+`> Current Projects:` VOX Solutions | HG Tech | G.Nove | Belle  
+`> Location:` Contagem, MG - Brazil
 
-###
+---
 
-<h2 align="left">About me</h2>
+## 📂 CORE_OPERATIONS
+Estou focado em transformar problemas complexos em automações escaláveis e soluções de software de alta performance.
 
-###
+*   **Software Development:** Next.js, Node.js, TypeScript e React.
+*   **Automation & AI:** Especialista em fluxos via n8n e Make.com.
+*   **Data & Growth:** Gestão de tráfego pago (Google Ads) e infraestrutura de CRM (G.Nove Hub).
+*   **Tech Stack:** `Python` (Machine Learning Focus), `Node.js`, `SQL`, `TypeScript`, `Docker`.
 
-<p align="left">✨ Creating bugs since 2020<br><br>📚 I'm currently learning Machine Learning<br><br>🔭 I am looking for my first job opportunity. My dream is to one day work with AI and Machine Learning</p>
+---
 
+## 🚀 PROJECTS_WORKSPACE
+*   **[VOX Solutions]**: Desenvolvimento de soluções tecnológicas customizadas.
+*   **[HG Tech]**: Software house focada em alta performance.
+*   **[G.Nove Hub]**: Plataforma SaaS de automação e CRM para negócios.
+*   **[Belle]**: Branding e desenvolvimento de produtos artesanais (D2C).
 
-<!-- Dropdown -->
-<details>
-  <summary>👨‍💻 More about me</summary>
+---
 
-  - 💬 
-I am Mateus Henrique, a curious and motivated professional, always seeking new knowledge and challenges. Currently, I am studying Systems Analysis and Development at Unopar College, demonstrating my commitment to acquiring relevant skills for the technology field.
+## 📊 STATS_TERMINAL
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=rickteuz&show_icons=true&theme=tokyonight&hide_border=true&custom_title=Developer%20Stats" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rickteuz&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
+</p>
 
-  - ⚡ I enjoy reading, whether it's a good book, manga, or comics, as well as watching movies and playing games! I believe that our personal interests contribute to a more refined perception of things and problem-solving. \o/
-</details>
+---
 
-
-<!-- GithubStats -->
-![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=rickteuz&show_icons=true&theme=gotham)
-
-
-
-## 🔥 Skills
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="40" alt="ruby logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-</div>
-
-###
-
-<br clear="both">
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/mateus-henrique-72078917a/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
+<p align="center">
+  <sub>"The best way to predict the future is to invent it."</sub>
+</p>
