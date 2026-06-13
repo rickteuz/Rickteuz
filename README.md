@@ -146,16 +146,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1500&color=00FF41&center=true&vCenter=true&width=620&lines=%22The+best+way+to+predict+the+future+is+to+invent+it.%22;-+Alan+Kay" alt="Quote"/>
 </div>
 
-<img src="assets/divider.svg" width="100%" alt=""/>
-
-<h2 align="center">⚡ LEGADO</h2>
-
-<div align="center">
-  <img src="assets/legendario.svg" alt="Legendário #169810" width="100%"/>
-</div>
-
-<br/>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00471f,100:00ff41&height=120&section=footer" width="100%" alt=""/>
 
 <!-- console.log("Se você leu o código-fonte até aqui, já merece um follow. 🟢") -->
