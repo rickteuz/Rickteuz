@@ -1,5 +1,5 @@
 <!-- ╔════════════════════════════════════════════════════════════════╗
-     ║   PROFILE: MATEUS HENRIQUE  ·  BUILD: v2.0  ·  STATUS: ONLINE   ║
+     ║   PROFILE: MATEUS HENRIQUE  ·  BUILD: v3.0  ·  STATUS: ONLINE   ║
      ╚════════════════════════════════════════════════════════════════╝ -->
 
 <div align="center">
@@ -7,7 +7,7 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2600&pause=800&color=00FF41&center=true&vCenter=true&width=720&height=50&lines=%3E+whoami+--verbose;Software+Architect+%7C+AI+%26+Automation+Specialist;Next.js+%C2%B7+Node.js+%C2%B7+TypeScript+%C2%B7+Python+%C2%B7+SQL;Transformando+complexidade+em+automa%C3%A7%C3%A3o+escal%C3%A1vel;while(true)+%7B+build()%3B+automate()%3B+scale()%3B+%7D" alt="Typing animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2600&pause=800&color=00FF41&center=true&vCenter=true&width=760&height=50&lines=%3E+whoami+--verbose;Engenheiro+de+IA+Generativa+%7C+Arquiteto+de+Software;Gestor+de+Meta+Ads+%26+Google+Ads+%7C+Growth+Engineer;Next.js+%C2%B7+Node.js+%C2%B7+TypeScript+%C2%B7+Python+%C2%B7+n8n;while(true)+%7B+build()%3B+automate()%3B+scale()%3B+%7D" alt="Typing animation"/>
 </p>
 
 <p align="center">
@@ -38,8 +38,9 @@
 <p align="center">
   <img src="https://img.shields.io/badge/n8n-Automation_Flows-EA4B71?style=for-the-badge&logo=n8n&logoColor=white&labelColor=0d1117"/>
   <img src="https://img.shields.io/badge/Make.com-Integrations-6D00CC?style=for-the-badge&logo=make&logoColor=white&labelColor=0d1117"/>
-  <img src="https://img.shields.io/badge/Google_Ads-Paid_Traffic-4285F4?style=for-the-badge&logo=googleads&logoColor=white&labelColor=0d1117"/>
-  <img src="https://img.shields.io/badge/Machine_Learning-Python-00ff41?style=for-the-badge&logo=scikitlearn&logoColor=white&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/Meta_Ads-Traffic_Manager-1877F2?style=for-the-badge&logo=meta&logoColor=white&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/Google_Ads-Traffic_Manager-4285F4?style=for-the-badge&logo=googleads&logoColor=white&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/Generative_AI-Engineer-00ff41?style=for-the-badge&logo=anthropic&logoColor=white&labelColor=0d1117"/>
 </p>
 
 <img src="assets/divider.svg" width="100%" alt=""/>
@@ -68,22 +69,15 @@
     </td>
   </tr>
   <tr>
-    <td align="center" width="50%">
-      <h3>🧠 G.Nove Hub</h3>
-      <p><sub>Plataforma SaaS de automação e CRM — infraestrutura de crescimento para negócios.</sub></p>
+    <td align="center" colspan="2">
+      <h3>🧠 HG Hub</h3>
+      <p><sub>Plataforma SaaS de automação e CRM — infraestrutura de crescimento para negócios escaláveis.</sub></p>
       <p>
+        <img src="https://img.shields.io/badge/-Next.js-0d1117?style=flat-square&logo=nextdotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/-TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178C6"/>
         <img src="https://img.shields.io/badge/-n8n-0d1117?style=flat-square&logo=n8n&logoColor=EA4B71"/>
-        <img src="https://img.shields.io/badge/-Python-0d1117?style=flat-square&logo=python&logoColor=3776AB"/>
-        <img src="https://img.shields.io/badge/-MySQL-0d1117?style=flat-square&logo=mysql&logoColor=4479A1"/>
-      </p>
-    </td>
-    <td align="center" width="50%">
-      <h3>🕯️ Belle</h3>
-      <p><sub>Branding e desenvolvimento de produtos artesanais — operação D2C completa.</sub></p>
-      <p>
-        <img src="https://img.shields.io/badge/-Figma-0d1117?style=flat-square&logo=figma&logoColor=F24E1E"/>
-        <img src="https://img.shields.io/badge/-Branding-0d1117?style=flat-square&logo=adobe&logoColor=FF0000"/>
-        <img src="https://img.shields.io/badge/-E--commerce-0d1117?style=flat-square&logo=shopify&logoColor=7AB55C"/>
+        <img src="https://img.shields.io/badge/-PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=4169E1"/>
+        <img src="https://img.shields.io/badge/-Docker-0d1117?style=flat-square&logo=docker&logoColor=2496ED"/>
       </p>
     </td>
   </tr>
@@ -94,8 +88,8 @@
 <h2 align="center">📊 PERFORMANCE_METRICS</h2>
 
 <div align="center">
-  <img height="190" src="https://github-readme-stats.vercel.app/api?username=Rickteuz&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&ring_color=00ff41&custom_title=Developer+Metrics" alt="GitHub Stats"/>
-  <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rickteuz&layout=compact&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&langs_count=8&custom_title=Code+DNA" alt="Top Languages"/>
+  <img height="190" src="https://github-readme-stats.vercel.app/api?username=rickteuz&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&ring_color=00ff41&custom_title=Developer+Metrics" alt="GitHub Stats"/>
+  <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rickteuz&layout=compact&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&langs_count=8&exclude_repo=rickteuz&custom_title=Code+DNA" alt="Top Languages"/>
 </div>
 
 <br/>
@@ -107,7 +101,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rickteuz&bg_color=0d1117&color=00ff41&line=00ff41&point=c9d1d9&area=true&area_color=00ff41&hide_border=true&custom_title=Neural+Activity+Map" width="100%" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rickteuz&bg_color=0d1117&color=00ff41&line=00ff41&point=c9d1d9&area=true&area_color=00ff41&hide_border=true&custom_title=Neural+Activity+Map" width="100%" alt="Activity Graph"/>
 </div>
 
 <img src="assets/divider.svg" width="100%" alt=""/>
@@ -115,7 +109,7 @@
 <h2 align="center">🏆 ACHIEVEMENTS_UNLOCKED</h2>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rickteuz&theme=matrix&no-frame=true&row=1&column=7&margin-w=8&margin-h=8" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=rickteuz&theme=onedark&no-frame=true&no-bg=true&row=1&column=7&margin-w=6" alt="GitHub Trophies"/>
 </div>
 
 <img src="assets/divider.svg" width="100%" alt=""/>
@@ -141,8 +135,8 @@
   <a href="https://www.linkedin.com/in/SEU-LINKEDIN-AQUI">
     <img src="https://img.shields.io/badge/LinkedIn-Conectar-0d1117?style=for-the-badge&logo=linkedin&logoColor=00ff41"/>
   </a>
-  <a href="https://instagram.com/SEU-INSTAGRAM-AQUI">
-    <img src="https://img.shields.io/badge/Instagram-Seguir-0d1117?style=for-the-badge&logo=instagram&logoColor=00ff41"/>
+  <a href="https://instagram.com/mateusdevv">
+    <img src="https://img.shields.io/badge/Instagram-@mateusdevv-0d1117?style=for-the-badge&logo=instagram&logoColor=00ff41"/>
   </a>
 </p>
 
